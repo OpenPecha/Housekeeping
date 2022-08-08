@@ -2,9 +2,6 @@
 # Welcome to OpenPecha R&D
 
 
-## Q2/2022
-
-
 ## Introduction {#introduction}
 
 The purpose of this document is to provide a sufficiently detailed yet concise overview of the OpenPecha Research and Development (R&D) Department. 
