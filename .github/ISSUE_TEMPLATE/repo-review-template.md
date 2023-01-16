@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+[repo name](link-to-repo)
+
 ## Round one:
 
 Checked to see whether: 
@@ -16,14 +18,14 @@ Checked to see whether:
 - [ ] Any stated use cases work
 
 List any docs that need to be updated and check when complete
-- [ ] 1
-- [ ] 2
+- [ ] first doc
+- [ ] second doc
 
 - [ ] Issue created if necessary
 _(Add link to issue here)_
 Items in issue:
--  1
--  2
+- first item in issue
+- second item in issue
 - [ ] Issue successfully closed
 - [ ] Documentation updated to reflect changes
 
@@ -38,13 +40,13 @@ Checked to see whether:
 - [ ] Dependencies are installed with `poetry` instead of `pip`
 
 List any docs that need to be updated and check when complete
-- [ ] 1
-- [ ] 2
+- [ ] first doc
+- [ ] second doc
 
 - [ ] Issue created if necessary
 _(Add link to issue here)_
 Items in issue:
-- 1
-- 2
+- first item in issue
+- second item in issue
 - [ ] Issue successfully closed
 - [ ] Documentation updated to reflect changes
