@@ -13,15 +13,17 @@ Checked to see whether:
 - [ ] The repo meets the standards of the OpenPecha readme template
 - [ ] The code in the repo does what it says
 - [ ] The code in the repo works as claimed
-- [ ] The stated use cases work
+- [ ] Any stated use cases work
 
 List any docs that need to be updated and check when complete
-- [ ] 
+- [ ] 1
+- [ ] 2
 
 - [ ] Issue created if necessary
 _(Add link to issue here)_
 Items in issue:
-- 
+-  1
+-  2
 - [ ] Issue successfully closed
 - [ ] Documentation updated to reflect changes
 
@@ -36,11 +38,13 @@ Checked to see whether:
 - [ ] Dependencies are installed with `poetry` instead of `pip`
 
 List any docs that need to be updated and check when complete
-- [ ] 
+- [ ] 1
+- [ ] 2
 
 - [ ] Issue created if necessary
 _(Add link to issue here)_
 Items in issue:
-- 
+- 1
+- 2
 - [ ] Issue successfully closed
 - [ ] Documentation updated to reflect changes
