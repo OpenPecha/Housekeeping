@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-[repo name](link-to-repo)
+[Link to repo](#)
 
 ## Round one:
 
@@ -21,6 +21,8 @@ assignees: ''
 - [ ] The code in the repo works as claimed
 - [ ] Any stated use cases work
 
+[Link to issues](#)
+
 ## Round two:
 
 - [ ] The repo has a quickstart
@@ -29,3 +31,5 @@ assignees: ''
 - [ ] The repo isn't cluttered with non-necessary items
 - [ ] The code's naming conventions are consistent
 - [ ] Dependencies are installed with `poetry` instead of `pip`
+
+[Link to issues](#)
