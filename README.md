@@ -38,6 +38,6 @@ For handling (non-code) housekeeping matters.
 
 ## Docs
 
-No documentations.
+No documentation.
 
 <!-- This section must link to the docs which are in the root of the repository in /docs -->
