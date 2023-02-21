@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#description">Description</a> •
-  <a href="#owner">Owner</a> •
+  <a href="#repo-owners">Owners</a> •
   <a href="#integrations">Integrations</a> •
   <a href="#docs">Docs</a>
 </p>
@@ -19,11 +19,11 @@
 
 ## Description
 
-For handling (non-code) housekeeping matters.
+For handling non-code housekeeping matters.
 
 <!-- This section provides a high-level overview for the repo -->
 
-## Owner
+## Repo owners
 
 - [@ngawangtrinley](https://github.com/ngawangtrinley)
 - [@mikkokotila](https://github.com/mikkokotila)
@@ -32,12 +32,12 @@ For handling (non-code) housekeeping matters.
 
 ## Integrations
 
-- No integrations with other repos.
+None
 
 <!-- This section must list as bulleted list how this repo depends or is integrated with other repos -->
 
 ## Docs
 
-No documentation.
+[OpenPecha Wiki](https://wiki.openpecha.org/#/)
 
 <!-- This section must link to the docs which are in the root of the repository in /docs -->
